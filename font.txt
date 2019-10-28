@@ -1,0 +1,4 @@
+font-family: 'Libre Barcode 128 Text', cursive;
+font-family: 'Parisienne', cursive;
+font-family: 'Maitree', serif;
+font-family: 'Andika', sans-serif;
